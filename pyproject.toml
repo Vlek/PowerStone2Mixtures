@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "powerstone2mixtures"
+version = "0.1.0"
+description = "Power Stone 2 Mixtures Helper"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
